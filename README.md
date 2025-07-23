@@ -2,7 +2,7 @@
 
 *Building interactive experiences at the intersection of code, art, and emerging tech.*
 
-🌐 **[www.joao.contact](https://www.joao.contact)** | 💼 Product Manager at **[Catena Labs](https://www.catenalabs.com)** building AI-native financial infrastructure
+🌐 **[www.joao.contact](https://www.joao.contact)** | 💼 Chief Product Officer at **[Catena Labs](https://www.catenalabs.com)** building an AI-native bank (think AI agents + stablecoins!)
 
 ## What I Do
 
